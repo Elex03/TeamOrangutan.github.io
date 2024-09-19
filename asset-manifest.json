@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b754611.css",
+    "main.js": "/static/js/main.8d455c36.js",
+    "static/media/Mesa de trabajo 1.webp": "/static/media/Mesa de trabajo 1.8af1224f897ef3e9eb2d.webp",
+    "static/media/Mesa de trabajo 2.webp": "/static/media/Mesa de trabajo 2.c075108990ea810eb904.webp",
+    "static/media/AJQuadrata-Bold.ttf": "/static/media/AJQuadrata-Bold.fa850f18ba1ecb42197b.ttf",
+    "static/media/Rebond Grotesque Extrabold.otf": "/static/media/Rebond Grotesque Extrabold.1ceea97db9ecdfe4908b.otf",
+    "static/media/Rebond Grotesque Light.otf": "/static/media/Rebond Grotesque Light.dda54a2bb2a182df7534.otf",
+    "index.html": "/index.html",
+    "main.2b754611.css.map": "/static/css/main.2b754611.css.map",
+    "main.8d455c36.js.map": "/static/js/main.8d455c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b754611.css",
+    "static/js/main.8d455c36.js"
+  ]
+}
