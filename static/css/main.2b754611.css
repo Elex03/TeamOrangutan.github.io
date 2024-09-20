@@ -1,6 +1,6 @@
 .full-screen-div {
   align-items: center;
-  background-image: url(static/media/Mesa%20de%20trabajo%201.8af1224f897ef3e9eb2d.webp);
+  background-image: url(../media/Mesa%20de%20trabajo%201.8af1224f897ef3e9eb2d.webp);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,7 +12,7 @@
 }
 @media (max-width: 768px) {
   .full-screen-div {
-    background-image: url(static/media/Mesa%20de%20trabajo%202.c075108990ea810eb904.webp);
+    background-image: url(../media/Mesa%20de%20trabajo%202.c075108990ea810eb904.webp);
   }
   .container-top {
     font-size: 2rem !important;
@@ -81,17 +81,16 @@ html {
 @font-face {
   font-family: AJQuadrata;
   font-weight: 900;
-  src: url(static/media/AJQuadrata-Bold.fa850f18ba1ecb42197b.ttf)
-    format("opentype");
+  src: url(../media/AJQuadrata-Bold.fa850f18ba1ecb42197b.ttf) format("opentype");
 }
 @font-face {
   font-family: Rebond;
-  src: url(static/media/Rebond%20Grotesque%20Extrabold.1ceea97db9ecdfe4908b.otf)
+  src: url(../media/Rebond%20Grotesque%20Extrabold.1ceea97db9ecdfe4908b.otf)
     format("opentype");
 }
 @font-face {
   font-family: Rebond-light;
-  src: url(static/media/Rebond%20Grotesque%20Light.dda54a2bb2a182df7534.otf)
+  src: url(../media/Rebond%20Grotesque%20Light.dda54a2bb2a182df7534.otf)
     format("opentype");
 }
 /*# sourceMappingURL=main.2b754611.css.map*/
