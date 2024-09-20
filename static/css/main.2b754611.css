@@ -52,6 +52,7 @@ html {
   display: flex;
   flex-direction: row;
   font-size: 5rem;
+  position: absolute;
 }
 .container-bottom {
   align-items: flex-end;
