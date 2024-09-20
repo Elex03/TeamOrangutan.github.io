@@ -16,7 +16,6 @@
   }
   .container-top {
     font-size: 2rem !important;
-    position: absolute;
     top: 40%;
   }
   .container-bottom {
@@ -52,7 +51,7 @@ html {
   display: flex;
   flex-direction: row;
   font-size: 5rem;
-  position: absolute;
+  position: fixed;
 }
 .container-bottom {
   align-items: flex-end;
